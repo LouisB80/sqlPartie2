@@ -1,0 +1,3 @@
+USE webDevelopment;
+
+CREATE TABLE ide(id INT AUTO_INCREMENT PRIMARY KEY, ideName VARCHAR(50));

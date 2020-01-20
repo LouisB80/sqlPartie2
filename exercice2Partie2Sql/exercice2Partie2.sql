@@ -1,0 +1,4 @@
+USE webDevelopment;
+
+CREATE TABLE tools(id INT AUTO_INCREMENT PRIMARY KEY, tool VARCHAR(100));
+
